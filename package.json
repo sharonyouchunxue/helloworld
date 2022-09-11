@@ -1,0 +1,22 @@
+{
+  "name": "default",
+  "version": "1.0.0",
+  "description": "default",
+  "main": "default",
+  "scripts": {
+    "test": "default",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "default"
+  },
+  "keywords": [
+    "default"
+  ],
+  "author": "Chunxue You",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
